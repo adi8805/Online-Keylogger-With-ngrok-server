@@ -121,5 +121,4 @@ Open a web browser and navigate to `[your-ngrok-url]/api/log` to see the capture
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 ```
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/81063679/743e64d7-e4a1-4b73-9009-f04d8aef2166/keylogger.py)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/81063679/05e6c3af-c340-46d1-9cc5-51192539b426/server.py)
+
