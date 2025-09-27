@@ -2,7 +2,7 @@
 ```markdown
 # Online Keylogger & C2 Server
 
-![Demo](video.gif)
+![Demo](https://raw.githubusercontent.com/adi8805/Online-Keylogger-With-ngrok-server/main/video.gif)
 
 A client-server-based Python keylogger designed for educational purposes to demonstrate concepts in cybersecurity, network communication, and system monitoring. The client captures keystrokes and sends them to a remote server, which logs the data and provides a simple web interface to view it.
 
